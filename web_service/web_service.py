@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # API adresini Render'daki senin backend URL'ine göre ayarladık
-API_URL = "https://ders3-2.onrender.com"
+API_URL = "https://ders5.onrender.com"
 
 HTML = """
 <!doctype html>
